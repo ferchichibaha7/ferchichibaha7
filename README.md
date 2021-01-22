@@ -4,7 +4,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferchichibaha7&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferchichibaha7&show_icons=true&theme=tokyonight&count_private=true" />
+  <p align='center'>
+    <samp>Hello there! I'm <b><a href='https://github.com/ferchichibaha7'>BAHA</a></b>.<br>
+        FullStack Developer, JS specialist, Angular/NodeJs enthusiast, and more. <br>
+      I also have experience working with Java, Spring, and React...
+    </samp>
+</p>
+ 
 </a>
  
 
