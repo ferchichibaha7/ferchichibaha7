@@ -1,8 +1,10 @@
 
 
-    
+ <div style ="display:flex  justify-content: center; align-items: center; text-align: center;">
+ 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ferchichibaha7&show_icons=true&theme=tokyonight)
 
+</div>
 
 
 <p align='center'>
