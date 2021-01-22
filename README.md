@@ -1,6 +1,6 @@
 
 <p align='center'>
-    <samp>Hello there! 😄 I'm <b><a href='https://github.com/ferchichibaha7'>BAHA</a></b>.<br>
+    <samp>Hello there! I'm <b><a href='https://github.com/ferchichibaha7'>BAHA</a></b> 😄<br>
         FullStack Developer, JS specialist, Angular/NodeJs enthusiast ⚡, <br>
       I also have experience working with Java, Spring, and React...
     </samp>
