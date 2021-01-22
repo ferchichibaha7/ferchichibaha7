@@ -1,19 +1,12 @@
 
 <p align='center'>
-    <samp>Hello there! I'm <b><a href='https://github.com/ferchichibaha7'>BAHA</a></b>.<br>
-        FullStack Developer, JS specialist, Angular/NodeJs enthusiast, <br>
+    <samp>Hello there! 😄 I'm <b><a href='https://github.com/ferchichibaha7'>BAHA</a></b>.<br>
+        FullStack Developer, JS specialist, Angular/NodeJs enthusiast ⚡, <br>
       I also have experience working with Java, Spring, and React...
     </samp>
 </p>
 
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ferchichibaha7&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
-
- 
-
-
 
 
 <!--
