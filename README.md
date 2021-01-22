@@ -1,4 +1,4 @@
-### Hi there 👋
+![github stats](https://github-readme-stats.vercel.app/api?username=ferchichibaha7&show_icons=true)
 
 <!--
 **ferchichibaha7/ferchichibaha7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
