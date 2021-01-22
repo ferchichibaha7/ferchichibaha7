@@ -1,4 +1,19 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=ferchichibaha7&show_icons=true)
+
+
+    
+![github stats](https://github-readme-stats.vercel.app/api?username=ferchichibaha7&show_icons=true&theme=tokyonight)
+
+
+
+<p align='center'>
+    <samp>Hello there! I'm <b><a href='https://github.com/ferchichibaha7'>BAHA</a></b>.<br>
+        FullStack Developer, JS specialist, Angular/NodeJs enthusiast, and more. <br>
+      I also have experience working with Java, Spring, and React...
+    </samp>
+</p>
+
+<hr>
+
 
 <!--
 **ferchichibaha7/ferchichibaha7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
